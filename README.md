@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[The new age of football: data analytics for salary predictions]*
+# The new age of football: data analytics for salary predictions in football
+*[Jose Miguel Martinez Montero]*
 
-*[Jose Martinez | Data Analytics Bootcamp Mar21-May21 | Iron Hack]*
+*[Data Analytics Bootcamp Full Time Mar21-May21 | Iron Hack]*
 
 ## Content
 - [Project Description](#project-description)
@@ -19,14 +19,21 @@
 - [Links](#links)
 
 ## Project Description
-It's a fact that the use of data analytics in football is becoming more popular day by day. We have the examples of Leicester city, surprisingly winner of the Premier League in 2016 thanks to the the implementation of analysis of data in its structure, or the recent case of Kevin de Bruyne, Manchester City footballer who has signed his new contract this year without using an agent, thanks to data-driven decissions to measure his performance in the team and the expected monetary reward the club should pay him. 
-Following this line, in this projet we are aiming to predict the salary of a player based in features such as its performance on the pitch, and other carateristics such as the age or the league, among others.
+It's a fact that the use of data analytics in football is becoming more popular daily. We have multiple examples, such as Leicester City, surprising winner team of the Premier League in 2016 thanks to the implementation of an analysis of data in its structure. 
+
+Another recent case it's the Kevin de Bruyne's, Manchester City Belgian footballer, who has signed his new contract renovation this year without the intermediation of an agent, thanks to data-driven decisions based on his performance in the team and the expected monetary reward that the club should pay him. 
+
+Following this line, in this final project, we are aiming to predict the salary of a player based on features such as its performance on the pitch, and other characteristics such as the age or the league, among others, applying the statistical and Machine Learning techniques we learnt during the Bootcamp.
 
 ## Hypotheses / Questions
-* What data/business/research/personal question you would like to answer?
-* What is the context for the question and the possible scientific or business application?
-* What are the hypotheses you would like to test in order to answer your question?  
-Frame your hypothesis with statistical/data languages (i.e. define Null and Alternative Hypothesis). You can use formulas if you want but that is not required.
+We would like to predict the expected salary of a professional player based on the performance on the pitch, the contribution to the team and other features.
+
+We would like to prove the correlation between the features object to investigation with the amount of salary the teams should pay to each player.
+
+In this project, we would like to see if some players are overpaid and other underpaid based in another caracteristics such as age or the league where they play.
+
+The Null hypothesis will be the players are paid according to their performance, and the Alternative Hypothesis will be if other factors are involved on the players wage.
+
 
 ## Dataset
 * Where did you get your data? If you downloaded a dataset (either public or private), describe where you downloaded it and include the command to load the dataset.
