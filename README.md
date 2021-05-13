@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-*[Your Name]*
+*[The new age of football: data analytics for salary predictions]*
 
-*[Your Cohort, Campus & Date]*
+*[Jose Martinez | Data Analytics Bootcamp Mar21-May21 | Iron Hack]*
 
 ## Content
 - [Project Description](#project-description)
@@ -19,7 +19,8 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show.
+It's a fact that the use of data analytics in football is becoming more popular day by day. We have the examples of Leicester city, surprisingly winner of the Premier League in 2016 thanks to the the implementation of analysis of data in its structure, or the recent case of Kevin de Bruyne, Manchester City footballer who has signed his new contract this year without using an agent, thanks to data-driven decissions to measure his performance in the team and the expected monetary reward the club should pay him. 
+Following this line, in this projet we are aiming to predict the salary of a player based in features such as its performance on the pitch, and other carateristics such as the age or the league, among others.
 
 ## Hypotheses / Questions
 * What data/business/research/personal question you would like to answer?
@@ -67,6 +68,6 @@ What does your repository look like? Explain your folder and file structure.
 Include links to your repository, slides and trello/kanban board. Feel free to include any other links associated with your project.
 
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/JoseMtnz/Project-Week-8-Final-Project)  
+[Slides](https://www.canva.com/design/DAEeRqmhbEw/FD_VNRLcqHL8qYUI3DtQlQ/view?utm_content=DAEeRqmhbEw&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)  
+[Trello](https://trello.com/b/zqJWZqOs/the-new-age-of-football)  
