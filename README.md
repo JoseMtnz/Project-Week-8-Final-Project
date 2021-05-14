@@ -27,9 +27,10 @@ The main goal of the project is trying to predict the possible cancellation of a
 For doing this, we will use real data of 2019 provided from a 4-star hotel based in central London, which name will be not published for data protection reasons, and we will apply the different statistical and Machine Learning techniques we learnt during the bootcamp.
 
 ## Hypotheses / Questions
-Firstly, I would like to explore the correlation between the probability of a reservation being cancelled and its characteristics such as the segmentation, booking date or room type, among others.
 
-Answering this, we will answer the business question which will be if it's possible to aticipate or predict the possibility of cancellation of a reservation and therefore helping to the Reveneu department to apply data-driven decissions to reduce the rate of cancellations during the year.
+Firstly, we will start exploring the correlation between the probability of a reservation being cancelled and its own characteristics such as the segmentation, booking date or room type, among others.
+
+Following this, we will try to answer our business question which would be "Is it possible to aticipate or predict the possibility of cancellation of a reservation?". This project ultimate would help to the Reveneu department to apply data-driven decissions to reduce the rate of cancellations during the year.
 
 In this case, the Null hypothesis will be the cancellation probability can't be anticipated and the Alternative Hypothesis will be if some factors are involved on this probability.
 
@@ -37,31 +38,42 @@ In this case, the Null hypothesis will be the cancellation probability can't be 
 
 As I mentioned before, the dataset was provided by a well-known hotel located in Central London, and is related to all the reservations (cancelled and not) for the year 2019.
 
-The dataset contains 54545645648 rows and 12 columns, and for each reservation we will have te following information: 
+The dataset contains 54545645648 rows and 12 columns, and for each reservation we will have information related to the following topics:
+
+- Segmentation (sales channel, main client, country)
+- Date (arrival date, number of nights, booking date)
+- Caracteristics (rate per night, room type, number of people, meal)
+- And finally the reservation status (if it was cancelled or not) which will be the fature we would like to predict.
 
 
 ## Cleaning
+
 Describe your full process of data wrangling and cleaning. Document why you chose to fill missing values, extract outliers, or create the variables you did as well as your reasoning behind the process.
 
 ## Analysis
+
 * Overview the general steps you went through to analyze your data in order to test your hypothesis.
 * Document each step of your data exploration and analysis.
 * Include charts to demonstrate the effect of your work.
 * If you used Machine Learning in your final project, describe your feature selection process.
 
 ## Model Training and Evaluation
+
 *Include this section only if you chose to include ML in your project.*
 * Describe how you trained your model, the results you obtained, and how you evaluated those results.
 
 ## Conclusion
+
 * Summarize your results. What do they mean?
 * What can you say about your hypotheses?
 * Interpret your findings in terms of the questions you try to answer.
 
 ## Future Work
+
 Address any questions you were unable to answer, or any next steps or future extensions to your project.
 
 ## Workflow
+
 Outline the workflow you used in your project. What were the steps?
 How did you test the accuracy of your analysis and/or machine learning algorithm?
 
