@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Machine Learning for hotel cancellations
+# Machine Learning to predict hotel cancellations
 *[Jose Miguel Martinez Montero]*
 
 *[Data Analytics Bootcamp Full Time Mar21-May21 | Iron Hack]*
