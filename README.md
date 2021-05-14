@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# The new age of football: data analytics for salary predictions in football
+# Machine Learning for hotel cancellations
 *[Jose Miguel Martinez Montero]*
 
 *[Data Analytics Bootcamp Full Time Mar21-May21 | Iron Hack]*
@@ -19,11 +19,9 @@
 - [Links](#links)
 
 ## Project Description
-It's a fact that the use of data analytics in football is becoming more popular daily. We have multiple examples, such as Leicester City, surprising winner team of the Premier League in 2016 thanks to the implementation of an analysis of data in its structure. 
+For this final project of the bootcamp, I wanted to look at the Data Analytics possible applications for the tourism industry, specially in the Hotel Industry, in wich I have a huge background. 
 
-Another recent case it's the Kevin de Bruyne's, Manchester City Belgian footballer, who has signed his new contract renovation this year without the intermediation of an agent, thanks to data-driven decisions based on his performance in the team and the expected monetary reward that the club should pay him. 
-
-Following this line, in this final project, we are aiming to predict the salary of a player based on features such as its performance on the pitch, and other characteristics such as the age or the league, among others, applying the statistical and Machine Learning techniques we learnt during the Bootcamp.
+The main goal of the project 
 
 ## Hypotheses / Questions
 We would like to predict the expected salary of a professional player based on the performance on the pitch, the contribution to the team and other features.
@@ -77,4 +75,4 @@ Include links to your repository, slides and trello/kanban board. Feel free to i
 
 [Repository](https://github.com/JoseMtnz/Project-Week-8-Final-Project)  
 [Slides](https://www.canva.com/design/DAEeRqmhbEw/FD_VNRLcqHL8qYUI3DtQlQ/view?utm_content=DAEeRqmhbEw&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)  
-[Trello](https://trello.com/b/zqJWZqOs/the-new-age-of-football)  
+[Trello](https://trello.com/b/zqJWZqOs/ml-for-hotel-cxls)  
