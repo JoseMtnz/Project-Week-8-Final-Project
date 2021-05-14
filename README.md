@@ -19,25 +19,26 @@
 - [Links](#links)
 
 ## Project Description
-For this final project of the bootcamp, I wanted to look at the Data Analytics possible applications for the tourism industry, specially in the Hotel Industry, in wich I have a huge background. 
 
-The main goal of the project 
+For this final project of the Bootcamp, I wanted to look into the possible applications of Data Analytics in the tourism industry, specifically in the Hotel Industry, to which I belong for many years. 
+
+The main goal of the project is trying to predict the possible cancellation of a hotel booking, based on the rest of the variables involved, as a way to anticipate and improve the business results. 
+
+For doing this, we will use real data of 2019 provided from a 4-star hotel based in central London, which name will be not published for data protection reasons, and we will apply the different statistical and Machine Learning techniques we learnt during the bootcamp.
 
 ## Hypotheses / Questions
-We would like to predict the expected salary of a professional player based on the performance on the pitch, the contribution to the team and other features.
+Firstly, I would like to explore the correlation between the probability of a reservation being cancelled and its characteristics such as the segmentation, booking date or room type, among others.
 
-We would like to prove the correlation between the features object to investigation with the amount of salary the teams should pay to each player.
+Answering this, we will answer the business question which will be if it's possible to aticipate or predict the possibility of cancellation of a reservation and therefore helping to the Reveneu department to apply data-driven decissions to reduce the rate of cancellations during the year.
 
-In this project, we would like to see if some players are overpaid and other underpaid based in another caracteristics such as age or the league where they play.
-
-The Null hypothesis will be the players are paid according to their performance, and the Alternative Hypothesis will be if other factors are involved on the players wage.
-
+In this case, the Null hypothesis will be the cancellation probability can't be anticipated and the Alternative Hypothesis will be if some factors are involved on this probability.
 
 ## Dataset
-* Where did you get your data? If you downloaded a dataset (either public or private), describe where you downloaded it and include the command to load the dataset.
-* Did you build your own datset? If so, did you use an API or a web scraper? PRovide the relevant scripts in your repo.
-* For all types of datasets, provide a description of the size, complexity, and data types included in your dataset, as well as a schema of the tables if necessary.
-* If the question cannot be answered with the available data, why not? What data would you need to answer it better?
+
+As I mentioned before, the dataset was provided by a well-known hotel located in Central London, and is related to all the reservations (cancelled and not) for the year 2019.
+
+The dataset contains 54545645648 rows and 12 columns, and for each reservation we will have te following information: 
+
 
 ## Cleaning
 Describe your full process of data wrangling and cleaning. Document why you chose to fill missing values, extract outliers, or create the variables you did as well as your reasoning behind the process.
@@ -65,12 +66,11 @@ Outline the workflow you used in your project. What were the steps?
 How did you test the accuracy of your analysis and/or machine learning algorithm?
 
 ## Organization
-How did you organize your work? Did you use any tools like a trello or kanban board?
+To organize my work I used a Trello board that you can find in the links section, and an amazin application named Canva to prepare the slides of the presentation.
 
-What does your repository look like? Explain your folder and file structure.
+On this GitHab repository you can find the Juptyer notebooks used to perform the analysis, altogether with the data set used for the project.
 
 ## Links
-Include links to your repository, slides and trello/kanban board. Feel free to include any other links associated with your project.
 
 
 [Repository](https://github.com/JoseMtnz/Project-Week-8-Final-Project)  
