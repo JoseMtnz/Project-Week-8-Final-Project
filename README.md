@@ -20,17 +20,17 @@
 
 ## Project Description
 
-For this final project of the Bootcamp, I wanted to look into the possible applications of Data Analytics in the tourism industry, specifically in the Hotel Industry, to which I belong for many years. 
+For this final project of the Bootcamp, I wanted to look into the possible applications of Data Analytics in the tourism industry, specifically in the Hotel Industry, to which I belonged for many years. 
 
-The main goal of the project is trying to predict the possible cancellation of a hotel booking, based on the rest of the variables involved, as a way to anticipate and improve the business results. 
+The main goal of the project is trying to predict the possibilty of cancellation of a hotel booking, based on the rest of the variables involved, as a way to anticipate and improve the business results. 
 
-For doing this, we will use real data of 2019 provided from a 4-star hotel based in central London, which name will be not published for data protection reasons, and we will apply the different statistical and Machine Learning techniques we learnt during the bootcamp.
+For doing this, we will use real data of 2019 provided by a recognized 4-star hotel located in central London, whose name will be not published for data protection reasons, and we will apply the different statistical and Machine Learning techniques we learnt during the bootcamp.
 
 ## Hypotheses / Questions
 
-Firstly, we will start exploring the correlation between the probability of a reservation being cancelled and its own characteristics such as the segmentation, booking date or room type, among others.
+Firstly, we will start exploring the correlation between the probability of a reservation being cancelled and its own characteristics such as the market channel, the lenght of the stay or room type, among others.
 
-Following this, we will try to answer our business question which would be "Is it possible to aticipate or predict the possibility of cancellation of a reservation?". This project ultimate would help to the Reveneu department to apply data-driven decissions to reduce the rate of cancellations during the year.
+Following this, we will try to answer our business question which would be "Is it possible to aticipate or predict the possibility of cancellation of a reservation?". This project ultimate would help to the Reveneu department of the hotel to apply data-driven decissions to reduce the rate of cancellations during the year.
 
 In this case, the Null hypothesis will be the cancellation probability can't be anticipated and the Alternative Hypothesis will be if some factors are involved on this probability.
 
@@ -38,9 +38,9 @@ In this case, the Null hypothesis will be the cancellation probability can't be 
 
 As I mentioned before, the dataset was provided by a well-known hotel located in Central London, and is related to all the reservations (cancelled and not) for the year 2019.
 
-The dataset contains 54545645648 rows and 12 columns, and for each reservation we will have information related to the following topics:
+The dataset contains 36607 rows and 16 columns, and for each reservation we will have information related to the following topics:
 
-- Segmentation (sales channel, main client, country)
+- Segmentation (Market channel, )
 - Date (arrival date, number of nights, booking date)
 - Caracteristics (rate per night, room type, number of people, meal)
 - And finally the reservation status (if it was cancelled or not) which will be the fature we would like to predict.
