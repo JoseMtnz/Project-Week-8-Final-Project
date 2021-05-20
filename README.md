@@ -62,15 +62,16 @@ Then, I’ve also dropped the duplicated rows from the dataset to finally make a
 
 First thing first, I checked the data types in the data set and I realized only the column ‘Reservation ID’ and ‘Number of people’ was an integer, the rest were python type ‘object’. 
 
-Also you can appreciate the columns were in spanish so I was translating everything in the process.
 Then, I went through an exploratory analysis of every feature to see the unique values contained and to see if any further transformation were needed.
 
-The first one was the column ‘Status;, where the variable we wanted to predict was included (‘Cancelled' status), among other status as ‘Confirmed’ (if the customer finally checked in), ‘No Show’ (not cancelled but not checked in) and 'Rejected'. These las two status have been removed as there were not interesting for this project but I would perfomr another project to predict the possibility of a reservation to be 'No Show' in future improvements of this project.
+The first one was the column ‘Status;, where the variable we wanted to predict was included (‘Cancelled' status), among other status as ‘Confirmed’ (if the customer finally checked in in the hotel), ‘No Show’ (not cancelled but not checked in) and 'Rejected'. These las two status have been removed as there were not interesting for this project, but I would perfomr another project to predict the possibility of a reservation to be 'No Show' in future improvements of this project.
+
+Secondly, I've converted the time variables available in the dataset (arrival date and departure date)
 
 
 ## Model Training and Evaluation
 
-First of all. I've tried different classification models (Logistic Regression, K-N Neighbors, ...) with different transformers for the data (StandardScaler and RobustScaler mainly) in order to identify the model which best performance.
+First of all, I've tried different classification algorithms (Logistic Regression, K-N Neighbors, ...) with different transformers for the data (StandardScaler and RobustScaler mainly) in order to identify the model which best performance.
 
 To achieve this, I've compared the Confusion Matrix g
 
