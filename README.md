@@ -113,13 +113,13 @@ Future steps of this project would be:
 
 The workflow used in this project was as follows:
 
-1 - Data collection
-2 - Data exploration / Data cleaning.
-3 - Pre-processing / Feature selection.
-4 - Model training
-5 - Undersampling vs Oversampling
-6 - Model evaluation / Error analysis
-7 - Communicating the results
+ 1 - Data collection
+ 2 - Data exploration / Data cleaning.
+ 3 - Pre-processing / Feature selection.
+ 4 - Model training
+ 5 - Undersampling vs Oversampling
+ 6 - Model evaluation / Error analysis
+ 7 - Communicating the results
 
 ## Organization
 
