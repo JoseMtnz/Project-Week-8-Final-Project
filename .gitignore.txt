@@ -17,7 +17,7 @@ ipython_config.py
 
 # End of httpswww.toptal.comdevelopersgitignoreapijupyternotebooks
 
-data
-pictures
+data/
+pictures/
 
 
